@@ -9,7 +9,7 @@ from transformers import AutoProcessor, BlipForConditionalGeneration
 from datetime import datetime
 
 # IBM Watson API Configuration (for reference)
-API_KEY = "06rMO9i-askaFv7dpVcRflh1g9j3W5iHz48BYprnCLU8"
+API_KEY = ""
 SERVICE_URL = "https://api.au-syd.assistant.watson.cloud.ibm.com/instances/9d6735a9-deef-4eb7-8477-2aed315d8245"
 
 # Load the pretrained BLIP processor and model
